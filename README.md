@@ -1,4 +1,4 @@
-# Investigation-of-the-performance-of-unconstrained-nonlinear-optimization-algorithms
+# Investigation of the performance of unconstrained nonlinear optimization algorithms
 
 This is a component of the project specifications for the IOE 511 course, which focuses on Continuous Optimization Methods and is offered at the University of Michigan, Ann Arbor. 
 
